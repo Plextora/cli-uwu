@@ -12,7 +12,6 @@ cd into the directory where the project is located. (Learn more about the cd com
 
 Run "npm link" to make the command global
 
-https://www.geeksforgeeks.org/cd-cmd-command/
 # Now CLI-UwU is setup!
 
 # Usage:
